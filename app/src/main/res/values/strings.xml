@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller 1</string>
+    <string name="Resultado">lblResultado</string>
+    <string name="cantidad">Txt1</string>
+    <string name="unidad" />
+    <string name="total" />
+</resources>

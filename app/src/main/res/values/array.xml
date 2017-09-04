@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="materiales">
+
+        <item>Cuero</item>
+        <item>Cuerda</item>
+
+    </string-array>
+    
+    <string-array name="dijes">
+
+        <item>Martillo</item>
+        <item>Ancla</item>
+    </string-array>
+
+    <string-array name="banos">
+
+        <item>Oro</item>
+        <item>Oro Rosado</item>
+        <item>Plata</item>
+        <item>Niquel</item>
+
+    </string-array>
+
+    <string-array name="divisas">
+
+        <item>"US$"</item>
+        <item>"COP$"</item>
+
+
+    </string-array>
+
+</resources>
